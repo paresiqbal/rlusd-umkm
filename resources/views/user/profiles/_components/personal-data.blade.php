@@ -504,7 +504,7 @@
                                         <path d="M9 17h6" />
                                         <path d="M9 13h6" />
                                     </svg>
-                                    Dokumen SKKK Konsultan Pratama ABDSI / IBCF dan / Sejenisnya
+                                    Dokumen SKKK Konsultan Pratama RLUSD / IBCF dan / Sejenisnya
                                 </div>
                                 <div>
                                     @if ($user?->profile?->fileSkkk)

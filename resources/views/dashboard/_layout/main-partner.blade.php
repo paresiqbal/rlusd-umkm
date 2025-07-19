@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>@yield('title') | Mitra ABDSI Sistem Satu Data Pendamping KUMKM</title>
+    <title>@yield('title') | Mitra RLUSD Sistem Pendamping UMKM Rejang Lebong</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="Tailwind Admin & Dashboard Template" name="description">
     <meta content="Themesbrand" name="author">
     <meta name="base-url" content="{{ url('/') }}">
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('assets/img/abdsi-icon.png') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/img/rlusd.png') }}">
     <!-- Layout config Js -->
     <!-- Icons CSS -->
 

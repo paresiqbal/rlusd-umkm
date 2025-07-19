@@ -8,7 +8,7 @@
     <meta content="Tailwind Admin & Dashboard Template" name="description">
     <meta content="Themesbrand" name="author">
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('assets/img/abdsi-icon.png') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/img/rlusd.png') }}">
     <!-- Layout config Js -->
     <!-- Icons CSS -->
 
@@ -44,7 +44,7 @@
                 <div
                     class="hidden lg:flex navbar-brand items-center justify-between shrink px-6 h-[70px]  border-r bg-[#fbfaff] border-gray-50 shadow-none">
                     <a href="#" class="flex items-center text-lg flex-shrink-0 font-bold leading-[69px]">
-                        <img src="{{ asset('assets/img/abdsi-icon.png') }}" alt=""
+                        <img src="{{ asset('assets/img/rlusd.png') }}" alt=""
                             class="inline-block w-6 h-6 align-middle xl:mr-2">
                         <span class="hidden font-bold text-gray-700 align-middle xl:block leading-[69px]">SSDP
                             KUMKM</span>

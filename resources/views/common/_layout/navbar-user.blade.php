@@ -1,7 +1,7 @@
 <header class="fixed flex flex-row items-center justify-between w-full px-6 py-4 bg-white md:px-16">
     {{-- NAVBAR - START --}}
     <div class="items-center hidden gap-16 md:flex ">
-        <a href="https://pendampingkumkm.id/" class="flex items-center gap-2 font-semibold text-xl text-gray-900">
+        <a href="#" class="flex items-center gap-2 font-semibold text-xl text-gray-900">
             <img class="h-12" src="{{ asset('assets/img/rlusd.png') }}" alt="logo">
             <p>RLUSD</p>
         </a>
@@ -44,8 +44,8 @@
             aria-controls="drawer-sidebar">
             <i class="text-xl ti ti-baseline-density-medium"></i>
         </div>
-        <a href="https://pendampingkumkm.id/">
-            <img class="h-6" src="{{ asset('assets/img/abdsi-logo.png') }}" alt="logo">
+        <a href="#">
+            <img class="h-6" src="{{ asset('assets/img/rlusd.png') }}" alt="logo">
         </a>
     </div>
     {{-- NAVBAR MOBILE - END --}}

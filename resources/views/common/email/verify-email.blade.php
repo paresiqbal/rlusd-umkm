@@ -59,7 +59,7 @@
     <div class="email-container">
         <!-- Top Center Logo -->
         <div class="logo">
-            <img src="{{ asset('/assets/images/abdsi-logo.png') }}" alt="ABDSI SSDP KUMKM Logo">
+            <img src="{{ asset('/assets/images/rlusd.png') }}" alt="RLUSD SSDP UMKM Logo">
         </div>
 
         <!-- Main Content with Border and Shadow -->
@@ -76,7 +76,7 @@
 
         <!-- Footer Information -->
         <div class="footer">
-            © {{ date('Y') }} ABDSI SSDP KUMKM. All rights reserved.
+            © {{ date('Y') }} RLUSD SSDP UMKM. All rights reserved.
         </div>
     </div>
 </body>

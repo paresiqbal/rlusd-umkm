@@ -3,7 +3,7 @@
     <div class="items-center gap-16 flex ">
         <a href="#">
             <img class="h-6"
-                src="{{ env('APP_ENV') == 'production' ? 'https://freelancer.pendampingkumkm.id/assets/img/abdsi-logo.png' : asset('assets/img/abdsi-logo.png') }}"
+                src="{{ env('APP_ENV') == 'production' ? 'https://freelancer.pendampingkumkm.id/assets/img/rlusd.png' : asset('assets/img/rlusd.png') }}"
                 alt="logo">
         </a>
     </div>

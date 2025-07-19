@@ -53,7 +53,7 @@
                 <div>
                     <label for="email" class="block mb-2 font-medium text-gray-700">Email</label>
                     <input type="email" name="email" id="email"
-                        class="w-full placeholder:text-13 text-13 py-1.5 rounded border-gray-100 focus:border focus:border-violet-50 
+                        class="w-full placeholder:text-13 text-13 py-1.5 rounded border-gray-100 focus:border focus:border-violet-50
                         focus:ring focus:ring-violet-500/20 placeholder:text-gray-500"
                         placeholder="pakvincent@orang-dua.com">
                     @error('email')
@@ -63,7 +63,7 @@
                 <div>
                     <label for="password" class="block mb-2 font-medium text-gray-700">Password</label>
                     <input type="password" name="password" id="password"
-                        class="w-full placeholder:text-13 text-13 py-1.5 rounded border-gray-100 focus:border 
+                        class="w-full placeholder:text-13 text-13 py-1.5 rounded border-gray-100 focus:border
                         focus:border-violet-50 focus:ring focus:ring-violet-500/20 placeholder:text-gray-500"
                         placeholder="minimum 8 characters">
                     @error('password')
@@ -72,12 +72,12 @@
                 </div>
                 <div class="flex items-start gap-3">
                     <input type="checkbox" name="approve_form" id="approve-terms-policy"
-                        class="align-middle rounded cursor-pointer focus:border-violet-100 
+                        class="align-middle rounded cursor-pointer focus:border-violet-100
                         focus:ring focus:ring-violet-500/20 focus:ring-offset-0">
                     <label for="approve-terms-policy" class="text-gray-500">
                         Dengan mendaftar, Anda membuat akun dan menyetujui <a href="#" class="link">Ketentuan
                             Penggunaan</a>
-                        serta <a href="#" class="link">Kebijakan Privasi</a> ABDSI.
+                        serta <a href="#" class="link">Kebijakan Privasi</a> RLUSD.
                     </label>
                 </div>
                 @error('approve_form')

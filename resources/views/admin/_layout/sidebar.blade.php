@@ -48,7 +48,8 @@
 
         <div class="h-full px-3 py-4 overflow-y-auto">
             <a href="/admin/dashboard" class="flex items-center ps-2.5 mb-5">
-                <img src="/assets/img/abdsi-logo.png" class="h-6 me-3 sm:h-7" alt="ABDSI Logo" />
+                <img src="/assets/img/rlusd.png" class="h-6 me-3 sm:h-7" alt="RLUSD Logo" />
+                <p class="font-bold text-xl">RLUSD</p>
             </a>
             @foreach ($navItems as $item)
                 <div class="mb-2">

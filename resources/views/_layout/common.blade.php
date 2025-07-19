@@ -13,8 +13,8 @@
     {{-- font --}}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('assets/img/apple-icon.png') }}" />
-    <link rel="icon" href="{{ asset('assets/img/abdsi-icon.png') }}" type="image/png">
-    <title>ABDSI Sistem Satu Data Pendamping KUMKM | @yield('title')</title>
+    <link rel="icon" href="{{ asset('assets/img/rlusd.png') }}" type="image/png">
+    <title>RLUSD Sistem Pendamping UMKM Rejang Lebong | @yield('title')</title>
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @stack('styles')
@@ -23,7 +23,7 @@
 <body class="text-base antialiased font-normal text-gray-800 transition-all duration-200">
     <header class="fixed flex flex-row items-center justify-between w-full px-8 py-4 bg-white md:px-16">
         <div class="flex items-center gap-16">
-            <a href="https://pendampingkumkm.id">
+            <a href="#">
                 <img class="h-6" src="{{ asset('assets/img/rlusd.png') }}" alt="logo">
             </a>
             <ul class="hidden gap-8 md:flex">

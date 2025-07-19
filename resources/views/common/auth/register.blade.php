@@ -82,7 +82,7 @@
                     <label for="approve-terms-policy" class="text-gray-500">
                         Dengan mendaftar, Anda membuat akun dan menyetujui <a href="#" class="link">Ketentuan
                             Penggunaan</a>
-                        serta <a href="#" class="link">Kebijakan Privasi</a> ABDSI.
+                        serta <a href="#" class="link">Kebijakan Privasi</a> RLUSD.
                     </label>
                 </div>
                 <button class="font-normal btn-primary">Daftar</button>

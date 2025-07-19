@@ -12,8 +12,8 @@
 
     {{-- Metadata Link & Title --}}
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('assets/img/apple-icon.png') }}" />
-    <link rel="icon" href="{{ asset('assets/img/abdsi-icon.png') }}" type="image/png">
-    <title> @yield('title') | ABDSI Sistem Satu Data Pendamping KUMKM </title>
+    <link rel="icon" href="{{ asset('assets/img/rlusd-icon.png') }}" type="image/png">
+    <title> @yield('title') | rlusd Sistem Pendamping UMKM </title>
 
     {{-- Fonts --}}
     <link rel="preconnect" href="https://fonts.googleapis.com">
