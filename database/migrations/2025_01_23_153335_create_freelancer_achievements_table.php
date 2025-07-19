@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('freelancer_achievements', function (Blueprint $table) {
             $table->id('freelancer_achievements_id');
             $table->string('achievement_title', 255)->nullable();
-            $table->unsignedBigInteger('achievement_year', 255)->nullable();
+            $table->year('achievement_year')->nullable(); // ✔ fixed
             $table->text('additional_information')->nullable();
             $table->unsignedBigInteger("freelancer_profile_id");
             $table->timestamps();
