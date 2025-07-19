@@ -1,0 +1,11 @@
+@import "/node_modules/cropperjs/dist/cropper.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    @apply text-gray-900;
+}

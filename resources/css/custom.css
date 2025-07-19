@@ -1,0 +1,6 @@
+#detailModal {
+    display: none;
+}
+#detailModal.active {
+    display: flex;
+}
