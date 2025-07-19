@@ -2,7 +2,7 @@
     {{-- FOOTER CONTENT - START --}}
     <div class="grid grid-cols-1 gap-12 lg:grid-cols-5 md:grid-cols-3 lg:gap-4">
         <div class="flex flex-col gap-4">
-            <img class="h-6 w-fit" src="/assets/img/abdsi-logo.png">
+            <img class="h-16 w-fit" src="/assets/img/rlusd.png">
             <div class="flex flex-col gap-3">
                 <div class="flex items-center gap-2"><i class="text-gray-500 ti ti-map-pin"></i>Yogyakarta</div>
                 <div class="flex items-center gap-2"><i class="text-gray-500 ti ti-brand-whatsapp"></i>+62 822 4173 3338

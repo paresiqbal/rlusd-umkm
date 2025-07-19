@@ -24,7 +24,7 @@
     <header class="fixed flex flex-row items-center justify-between w-full px-8 py-4 bg-white md:px-16">
         <div class="flex items-center gap-16">
             <a href="https://pendampingkumkm.id">
-                <img class="h-6" src="{{ asset('assets/img/abdsi-logo.png') }}" alt="logo">
+                <img class="h-6" src="{{ asset('assets/img/rlusd.png') }}" alt="logo">
             </a>
             <ul class="hidden gap-8 md:flex">
                 <li>
